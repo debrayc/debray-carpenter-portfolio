@@ -1,0 +1,65 @@
+header {
+  position: fixed;
+  background-color: darkgrey;
+  break-after: avoid-region;
+  margin: 2%;
+  padding: .5%;
+  opacity: .8;
+  bottom: 6%;
+  background-blend-mode: difference;
+}
+header h3 {
+  border-color: white;
+  padding: 1%;
+}
+#aboutme {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#background {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url("/images/DeBrayWeb.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#work {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url("/images/MarketSt.jpg");
+  background-position: center;
+}
+#contact {
+  text-align: center;
+  height: 100%;
+  background-image: url("/images/transamerica.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#contact-info {
+  height: 75%;
+  margin: 2%;
+  align-self: center;
+  background-color: white;
+  opacity: .6;
+  text-align: center;
+  align-items: center;
+
+}
+.line-break {
+  width: 80%;
+  margin: 2%;
+  height: .5%;
+  text-align: center;
+}
+footer {
+  width: 100%;
+  text-align: center;
+  opacity: .8;
+  bottom: 0;
+  position: fixed;
+  background-color: darkgray;
+}

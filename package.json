@@ -1,0 +1,33 @@
+{
+  "name": "debray-carpenter-developing-developer",
+  "version": "1.0.0",
+  "description": "Showcase of my skillset",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debrayc/debray-carpenter-portfolio.git"
+  },
+  "keywords": [
+    "debray",
+    "carpenter",
+    "portfolio",
+    "software",
+    "developer"
+  ],
+  "author": "DeBray Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debrayc/debray-carpenter-portfolio/issues"
+  },
+  "homepage": "https://github.com/debrayc/debray-carpenter-portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "npm": "^5.0.3",
+    "path": "^0.12.7"
+  }
+}
