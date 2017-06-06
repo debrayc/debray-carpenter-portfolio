@@ -30,6 +30,7 @@ header h3 {
   background-repeat: no-repeat;
   background-image: url("/images/MarketSt.jpg");
   background-position: center;
+  background-size: cover;
 }
 #contact {
   text-align: center;
@@ -37,6 +38,7 @@ header h3 {
   background-image: url("/images/transamerica.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 #contact-info {
